@@ -18,7 +18,7 @@ V0.0.0.1
 
 ## ✒️ Autor
 
-* **Lucas Silva** *Desenvolvedor do Projeto* - (https://github.com/guilucasv)
+* **[Lucas Silva](https://github.com/guilucasv)** *Desenvolvedor do Projeto*
 
 ---
 
