@@ -14,7 +14,7 @@ Obrigado pela sua visita !
 
 ## 📌 Versão
 
-V0.0.0.1
+**ESTE WEBSITE AINDA ESTÁ EM DESENVOLVIMENTO**
 
 ## ✒️ Autor
 
